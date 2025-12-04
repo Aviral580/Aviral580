@@ -41,23 +41,7 @@
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aviral580&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviral580&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviral580&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
-<br/>
-
-### 🏆 Achievements
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aviral580&theme=onedark&no-frame=true&margin-w=15" alt="trophy" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral580&theme=tokyonight&hide_border=true" alt="streak graph" />
 </div>
 
 <br/>
